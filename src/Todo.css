@@ -1,3 +1,11 @@
 .todo_list{
     text-align: center;
 }
+
+.logos{
+    display: inline-flex;
+}
+
+input{
+    margin: 8px;
+}
